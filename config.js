@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://gim-tracker-rub-me-off.herokuapp.com/:56660'
+const CONFIG_BACKEND_URL = 'https://gim-tracker-rub-me-off.herokuapp.com/:52608'
